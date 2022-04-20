@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://RuqayyahSara:GUEQxmE9v8P3N8o8@ruqayyah.ulmpj.gcp.mongodb.net/test?retryWrites=true&w=majority",
+    "secretKey":"managerProf"
+}
